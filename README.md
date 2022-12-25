@@ -3,20 +3,21 @@ Primeiro projeto de Banco de Dados da faculdade de ADS <br/>
 Link do Dashboard - https://datastudio.google.com/u/0/reporting/3ab7268d-be18-4e49-b2f9-5dadbf4a7789/page/qZwAD
 
 # Regra de Negócio
-O nosso sistema de banco de dados consiste num mercado de pequeno porte, então esse sistema estará associado a departamentos alguns departamentos: <br/>
+* O nosso sistema de banco de dados consiste num mercado de pequeno porte, então esse sistema estará associado a departamentos alguns departamentos: <br/>
 1 - RH <br/>
 2 - Financeiro <br/>
 3- Almoxarifado <br/>
 4- Segurança <br/>
-Dentro desses departamentos, estarão alocados alguns funcionários de acordo com a sua funcionalidade. <br/>
 
-O nosso mercado terá a funcionalidade de cadastrar clientes. <br/>
+* Dentro desses departamentos, estarão alocados alguns funcionários de acordo com a sua funcionalidade. <br/>
 
-Os clientes, por sua vez, poderão realizar compras. <br/>
+* O nosso mercado terá a funcionalidade de cadastrar clientes. <br/>
 
-Dentro das compras, haverá produtos. <br/>
+* Os clientes, por sua vez, poderão realizar compras. <br/>
 
-Os produtos serão fornecidos por algum fornecedor.
+* Dentro das compras, haverá produtos. <br/>
+
+* Os produtos serão fornecidos por algum fornecedor.
 
 
 
