@@ -49,9 +49,3 @@ select f.Departamento_idDepartamento, d.Nome from Funcionario f inner join Depar
 SELECT CONCAT(LPAD(MONTH(DataCompra), 2,'0'), '/', YEAR(DataCompra)) mes, COUNT(idCompra) vendas
 FROM compra
 GROUP BY MONTH(DataCompra);
-
-
-SELECT CONCAT(LPAD(MONTH(DataCompra), 2,'0'), '/', YEAR(DataCompra)) mes, COUNT(idCompra) vendas
-FROM compra
-WHERE DataCompra BETWEEN CURDATE() - INTERVAL 12 MONTH AND CURDATE()
-GROUP BY MONTH(DataCompra);
