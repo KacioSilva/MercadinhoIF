@@ -1,4 +1,4 @@
-![TESTE](https://user-images.githubusercontent.com/101821745/209476516-fd40bd5b-8098-4e67-a2b7-b9b157d96bce.png)
+![Modelo Lógico](https://user-images.githubusercontent.com/101821745/209476654-b27b976e-9450-4c64-b6b9-b13e1510e0e0.png)
 # MercadinhoIF
 Primeiro projeto de Banco de Dados da faculdade
 
