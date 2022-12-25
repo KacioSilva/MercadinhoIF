@@ -9,9 +9,13 @@ O nosso sistema de banco de dados consiste num mercado de pequeno porte, então 
 3- Almoxarifado <br/>
 4- Segurança <br/>
 Dentro desses departamentos, estarão alocados alguns funcionários de acordo com a sua funcionalidade. <br/>
+
 O nosso mercado terá a funcionalidade de cadastrar clientes. <br/>
+
 Os clientes, por sua vez, poderão realizar compras. <br/>
+
 Dentro das compras, haverá produtos. <br/>
+
 Os produtos serão fornecidos por algum fornecedor.
 
 
