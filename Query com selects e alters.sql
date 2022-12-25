@@ -11,7 +11,6 @@ select * from fornecedor_produtos;
 select * from departamento;
 
 
-	SET FOREIGN_KEY_CHECKS = 0;
 
 alter table fornecedor_produtos add DataDeFornecimento date not null; /*Comando para alterar uma tabela, adicionando uma linha na mesma.*/
 
