@@ -28,5 +28,5 @@ Link do Dashboard - https://datastudio.google.com/u/0/reporting/3ab7268d-be18-4e
 ![Modelo Lógico](https://user-images.githubusercontent.com/101821745/209478410-5f9c0231-bb84-4711-8cf2-df6077fdc684.png)
 
 # Desenvolvedores
-Kácio Silva, Eduardo José, Luciano Bruno, Adonai Vieira e Tyago Ferreira
+Kácio Silva, Eduardo José, Luciano Bruno, Adonai Vieira e Tyago Ferreira.
 
