@@ -1,5 +1,5 @@
 # MercadinhoIF
-Primeiro projeto de Banco de Dados da faculdade de ADS <br/>
+Primeiro projeto da disciplina de Banco de Dados do curso de Análise e Desenvolvimento de Sistemas da faculdade IFPE campus Paulista, 2022.2. <br/>
 Link do Dashboard - https://datastudio.google.com/u/0/reporting/3ab7268d-be18-4e49-b2f9-5dadbf4a7789/page/qZwAD
 
 # Regra de Negócio
