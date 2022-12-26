@@ -21,8 +21,8 @@ Link do Dashboard - https://datastudio.google.com/u/0/reporting/3ab7268d-be18-4e
 
 
 
-# Modelo Relacional
-![Modelo Relacional](https://user-images.githubusercontent.com/101821745/209476654-b27b976e-9450-4c64-b6b9-b13e1510e0e0.png)
+# Modelo Conceitual
+![Modelo Conceitual](https://user-images.githubusercontent.com/101821745/209476654-b27b976e-9450-4c64-b6b9-b13e1510e0e0.png)
 
 # Modelo Lógico
 ![Modelo Lógico](https://user-images.githubusercontent.com/101821745/209478410-5f9c0231-bb84-4711-8cf2-df6077fdc684.png)
